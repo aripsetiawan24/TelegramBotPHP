@@ -1,5 +1,8 @@
 <?php
 
+echo "Hello World";
+//this is telegram bot
+//just use 
 if (file_exists('TelegramErrorLogger.php')) {
     require_once 'TelegramErrorLogger.php';
 }
